@@ -27,3 +27,10 @@ Wilderness Area: 4 binary features
 
 Cover_Type: Target variable (7 forest categories)
 
+## ⚙️ Technologies Used
+Language: Python
+
+Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost
+
+Platform: Jupyter Notebook / Google Colab
+
